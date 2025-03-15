@@ -18,6 +18,14 @@ Este projeto tem como objetivo analisar os cancelamentos de clientes utilizando 
 - **Compara os cancelamentos com outras colunas** para entender padrões.
 - **Cria visualizações interativas** utilizando **Plotly**.
 
+## Como Acessar o Projeto ✅
+
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/Gabrielb04/Analise-de-Dados.Py.git
+   ```
+
+
 ## 🛠 Tecnologias Utilizadas
 
 - **Python** 🐍
